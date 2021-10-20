@@ -9,32 +9,26 @@ SESSION 3: Strings, lists and tuples
 
 SESSION 4: Conditionals and loops
 
-SESSION 5: Exercises and practice
+SESSION 5: User-defined functions
 
-SESSION 6: User-defined functions
+SESSION 6: Dictionaries and sets
 
-SESSION 7: Dictionaries and sets
+SESSION 7: List, dictionary, and set comprehensions
 
-SESSION 8: List, dictionary, and set comprehensions
+SESSION 8: OS, context manager, file handling
 
-SESSION 9: OS, context manager, file handling
+SESSION 9: Work on 5 selected Project Euler problems using the concepts learned so far
 
-SESSION 10: Work on 5 selected Project Euler problems using the concepts learned so far
+SESSION 10: Manipulation of JSON data
 
-SESSION 11: Discussion of the solution of the selected Project Euler problems (part I)
+SESSION 11: Work on JSON data
 
-SESSION 12: Discussion of the solution of the selected Project Euler problems (part II)
+SESSION 12: The basics of NumPy arrays
 
-SESSION 13: Manipulation of JSON data
+SESSION 13: Arithmetic operations and comparisons and boolean logic
 
-SESSION 14: Work on JSON data
+SESSION 14: Masks for data filtering
 
-SESSION 15: The basics of NumPy arrays
+SESSION 15: N-dimensional data
 
-SESSION 16: Arithmetic operations and comparisons and boolean logic
-
-SESSION 17: Masks for data filtering
-
-SESSION 18: N-dimensional data
-
-SESSION 19: Work on NumPy arrays
+SESSION 16: Work on NumPy arrays
