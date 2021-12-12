@@ -1,5 +1,6 @@
-# python1-oct2021
-Repository containing all the notebooks and material that I followed in the classes
+# Python for Data Analysis I
+
+Repository containing all the notebooks and material that I used in class
 
 SESSION 1: Intro to Jupyter and Python
 
